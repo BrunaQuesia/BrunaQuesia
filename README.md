@@ -1,5 +1,4 @@
-## Boas vindas ao meu perfil :blue_heart
-
+  Boas vindas ao meu perfil 
 - Meu nome é Bruna Quésia Lima
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
